@@ -169,7 +169,7 @@ pytest
 
 If you use this code, please cite the Zenodo record (see `CITATION.cff`):
 
-> Landi, N. (2026). *explicit_enso_iod_model* (version 0.1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23559520
+> Landi, N. (2026). *explicit_enso_iod_model* (version 0.1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23559519
 
 (Replace the year, version and DOI after publishing, and add the associated paper if there is one.)
 
