@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "explicit_enso_iod_model"
+type: software
+version: 0.1.0
+date-released: "2026-10-22"
+license: MIT
+doi: 10.5281/zenodo.23558633
+authors:
+  - family-names: Landi
+    given-names: Nicolò
+    orcid: "https://orcid.org/0009-0005-8192-8170"
+    affiliation: "University of Bologna"
+# preferred-citation: add the paper once it has a DOI
