@@ -5,7 +5,7 @@ type: software
 version: 0.1.0
 date-released: "2026-10-22"
 license: MIT
-doi: 10.5281/zenodo.23559520
+doi: 10.5281/zenodo.23559519
 authors:
   - family-names: Landi
     given-names: Nicolò
